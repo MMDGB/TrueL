@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrueLayerInterview", "TrueLayerInterview.csproj", "{B18E353E-0BE0-4ABF-97A6-BC78DA131139}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B18E353E-0BE0-4ABF-97A6-BC78DA131139}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B18E353E-0BE0-4ABF-97A6-BC78DA131139}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B18E353E-0BE0-4ABF-97A6-BC78DA131139}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B18E353E-0BE0-4ABF-97A6-BC78DA131139}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D109A77-872E-4561-8F44-5B1F2B334641}
+	EndGlobalSection
+EndGlobal
