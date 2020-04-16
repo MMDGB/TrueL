@@ -1,0 +1,75 @@
+.datePicker
+{
+    vertical-align: middle;
+}
+.full
+{
+    padding-top: 30px;
+}
+.paper
+{
+    overflow: auto;
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    flex: 1 0 auto;
+    -webkit-overflow-scrolling: touch;
+    position: fixed;
+    top: 0px;
+    outline: 0px;
+  }
+.paperAnchorLeft 
+{
+    left: 0;
+    right: auto
+}
+
+.paperAnchorTopfalse
+{
+    padding-top: 70px;
+    padding-left:100px;
+    top: 0;
+    left: 0;
+    bottom: 'auto';
+    right: 0;
+    height: 'auto';
+    max-height: 100%;
+    position: absolute;    
+}
+.paperAnchorToptrue
+{
+    padding-top: 70px;
+    padding-left:300px;
+    top: 0;
+    left: 0;
+    bottom: 'auto';
+    right: 0;
+    height: 'auto';
+    max-height: 100%;
+    position: absolute;    
+}
+.fontSizeStart
+{
+    padding-top: 10px;
+    font-size: 15pt;
+    padding-right: 100px;
+}
+.fontSizeEnd
+{
+    padding-top: 10px;
+    font-size: 15pt;
+    padding-right: 107px;
+}
+.grid
+{
+    display: 'flex';
+    flex-wrap: wrap;
+    justify-content: space-around;
+    overflow: 'hidden';
+}
+.formControl
+{
+    margin: auto;
+    min-width: 120;
+    max-width: 300;
+}

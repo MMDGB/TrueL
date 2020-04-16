@@ -1,0 +1,18 @@
+@media all and (min-width: 480px) {
+    .Login {
+      padding: 60px 0;
+    }
+  
+    .Login form {
+      margin: 0 auto;
+      margin-top: 100px;
+      max-width: 320px;
+      flex-grow: 1;
+    }
+    .menuButton{
+        margin-right: 10px;
+    }
+    .title{
+        flex-grow: 1;
+    }
+  }
